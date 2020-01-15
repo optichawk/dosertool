@@ -1,4 +1,7 @@
-#Python 2.x
+#-*- coding: utf-8 -*-
+
+#Python 2.X
+#File Name:dos.py
 import time, socket, sys, thread
 
 def clear_all():
