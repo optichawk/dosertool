@@ -1,4 +1,4 @@
-This Script Doing Ddos Attack With Just The Domain Of Website But Many Ddoser Tool Are Need IP But This Script Very Easier Than Them For Learners
+This Script Doing Ddos Attack With Just The Domain Of Website But Many Ddoser Tool Are Need IP But This Script Very Easier Than Them For amaturs
 
 
 How We Work With It?
