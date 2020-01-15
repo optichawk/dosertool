@@ -6,4 +6,4 @@ How We Work With It?
 Just Write Domain Example: www.google.com
 And After That Write Your Threat Count Example: 100
 
-The Main Port Is 80
+The Main Port Is 80 But If You Want,Change It
