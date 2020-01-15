@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#Python 2.x
 import time, socket, sys, thread
 
 def clear_all():
